@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Hugo on vv&#39;s blog</title>
+    <link>https://www.vvlisn.com/tags/hugo/</link>
+    <description>Recent content in Hugo on vv&#39;s blog</description>
+    <generator>Hugo -- 0.145.0</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 26 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.vvlisn.com/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World - 我的第一篇博客</title>
+      <link>https://www.vvlisn.com/posts/hello-world/</link>
+      <pubDate>Tue, 26 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.vvlisn.com/posts/hello-world/</guid>
+      <description>这是我的第一篇博客文章，介绍了这个博客的搭建过程</description>
+      <content:encoded><![CDATA[<h2 id="-hello-world">👋 Hello World!</h2>
+<p>这是我使用 Hugo 搭建的个人博客的第一篇文章。在这篇文章中，我将分享这个博客的搭建过程。</p>
+<h2 id="-技术栈">🔧 技术栈</h2>
+<ul>
+<li><a href="https://gohugo.io/">Hugo</a> - 静态网站生成器</li>
+<li><a href="https://github.com/adityatelange/hugo-PaperMod">PaperMod</a> - 一个简洁、现代的 Hugo 主题</li>
+<li>GitHub Pages - 网站托管平台</li>
+</ul>
+<h2 id="-博客功能">📝 博客功能</h2>
+<ol>
+<li>响应式设计</li>
+<li>深色模式支持</li>
+<li>文章目录</li>
+<li>代码高亮</li>
+<li>分类和标签系统</li>
+<li>搜索功能</li>
+</ol>
+<h2 id="-为什么选择-hugo">💡 为什么选择 Hugo？</h2>
+<p>Hugo 是一个用 Go 语言编写的静态网站生成器，具有以下优点：</p>
+<ol>
+<li>构建速度快</li>
+<li>配置简单</li>
+<li>主题丰富</li>
+<li>活跃的社区</li>
+</ol>
+<h2 id="-未来计划">🎯 未来计划</h2>
+<ol>
+<li>定期更新技术文章</li>
+<li>添加评论系统</li>
+<li>优化网站性能</li>
+<li>添加更多交互功能</li>
+</ol>
+<h2 id="-如何使用本博客">🔍 如何使用本博客</h2>
+<ol>
+<li>文章分类：通过顶部导航栏的&quot;分类&quot;查看</li>
+<li>标签搜索：通过&quot;标签&quot;页面查找相关文章</li>
+<li>全文搜索：使用顶部的搜索功能</li>
+</ol>
+<p>欢迎大家访问我的博客，一起交流学习！</p>
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>

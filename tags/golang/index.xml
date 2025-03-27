@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Golang on vv&#39;s blog</title>
+    <link>https://www.vvlisn.com/tags/golang/</link>
+    <description>Recent content in Golang on vv&#39;s blog</description>
+    <generator>Hugo -- 0.145.0</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 26 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.vvlisn.com/tags/golang/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Go 并发编程实战：从入门到实践</title>
+      <link>https://www.vvlisn.com/posts/golang-concurrency/</link>
+      <pubDate>Tue, 26 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.vvlisn.com/posts/golang-concurrency/</guid>
+      <description>深入理解 Go 语言的并发特性，包括 goroutine、channel、select 等</description>
+      <content:encoded><![CDATA[<p>本文将深入探讨 Go 语言的并发编程特性。</p>
+<blockquote>
+<p>文章编写中&hellip;</p></blockquote>
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>
